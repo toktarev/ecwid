@@ -1,2 +1,1 @@
-# ecwid
-ecwid
+Unique IP address calculator
